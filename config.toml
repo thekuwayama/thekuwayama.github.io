@@ -1,0 +1,63 @@
+baseurl = "https://thekuwayama.github.io/"
+title = "thekuwayama"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
+
+[taxonomies]
+    series = "series"
+
+[params]
+    author = "thekuwayama"
+    avatar = "avatar.jpg"
+    favicon = "favicon.ico"
+    description = """
+    Software Developer and Infrastructure Developer.
+    """
+    publicationYear = "2019"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+[outputs]
+    section = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/thekuwayama"
+    weight = 10
+
+[[menu.main]]
+    identifier = "gems"
+    pre = "<i class='fa fa-gem fa-lg'></i>"
+    url = "https://rubygems.org/profiles/thekuwayama"
+    weight = 20
+
+[[menu.main]]
+    identifier = "dockerhub"
+    pre = "<i class='fab fa-docker fa-lg'></i>"
+    url = "https://hub.docker.com/u/thekuwayama"
+    weight = 30
+
+[[menu.main]]
+    identifier = "presentation"
+    pre = "<i class='fa fa-link fa-lg'></i>"
+    url = "https://www.slideshare.net/techblogyahoo/yjdsnight-69820655"
+    weight = 40
+
+[[menu.main]]
+    identifier = "testserver"
+    pre = "<i class='fa fa-link fa-lg'></i>"
+    url = "https://thekuwayama.net/"
+    weight = 50
+
+[[menu.main]]
+    identifier = "email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:thekuwayama@gmail.com"
+    weight = 60

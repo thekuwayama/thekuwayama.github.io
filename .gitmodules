@@ -1,0 +1,6 @@
+[submodule "pulp"]
+	path = pulp
+	url = git@github.com:koirand/pulp.git
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
