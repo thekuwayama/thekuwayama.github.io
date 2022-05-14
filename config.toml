@@ -45,19 +45,25 @@ hasCJKLanguage = true
     weight = 30
 
 [[menu.main]]
+    identifier = "crate"
+    pre = "<i class='fas fa-boxes fa-lg'></i>"
+    url = "https://crates.io/users/thekuwayama"
+    weight = 40
+
+[[menu.main]]
     identifier = "presentation"
     pre = "<i class='fa fa-link fa-lg'></i>"
     url = "https://www.slideshare.net/techblogyahoo/yjdsnight-69820655"
-    weight = 40
+    weight = 50
 
 [[menu.main]]
     identifier = "testserver"
     pre = "<i class='fa fa-link fa-lg'></i>"
     url = "https://thekuwayama.net/"
-    weight = 50
+    weight = 60
 
 [[menu.main]]
     identifier = "email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:thekuwayama@gmail.com"
-    weight = 60
+    weight = 70
