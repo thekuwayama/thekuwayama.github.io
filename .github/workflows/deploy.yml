@@ -3,7 +3,7 @@ name: gh pages deploy
 on:
   push:
     branches:
-      - fix__githubactions
+      - main
 
 jobs:
   deploy:
