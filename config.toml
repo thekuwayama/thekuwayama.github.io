@@ -40,7 +40,7 @@ hasCJKLanguage = true
 
 [[menu.main]]
     identifier = "crate"
-    pre = "<i class='fab fa-rust'></i>"
+    pre = "<i class='fab fa-rust fa-lg'></i>"
     url = "https://crates.io/users/thekuwayama"
     weight = 30
 
@@ -52,13 +52,13 @@ hasCJKLanguage = true
 
 [[menu.main]]
     identifier = "presentation"
-    pre = "<i class='fab fa-slideshare'></i>"
+    pre = "<i class='fab fa-slideshare fa-lg'></i>"
     url = "https://www.slideshare.net/techblogyahoo/yjdsnight-69820655"
     weight = 50
 
 [[menu.main]]
     identifier = "speakerdeck"
-    pre = "<i class='fab fa-speaker-deck'></i>"
+    pre = "<i class='fab fa-speaker-deck fa-lg'></i>"
     url = "https://speakerdeck.com/thekuwayama"
     weight = 60
 
