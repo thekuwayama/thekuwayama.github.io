@@ -15,7 +15,7 @@ hasCJKLanguage = true
     avatar = "avatar.jpg"
     favicon = "favicon.ico"
     description = """
-    Software Developer and Infrastructure Developer.
+    Software Developer
     """
     publicationYear = "2019"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
