@@ -39,31 +39,37 @@ hasCJKLanguage = true
     weight = 20
 
 [[menu.main]]
-    identifier = "dockerhub"
-    pre = "<i class='fab fa-docker fa-lg'></i>"
-    url = "https://hub.docker.com/u/thekuwayama"
+    identifier = "crate"
+    pre = "<i class='fab fa-rust'></i>"
+    url = "https://crates.io/users/thekuwayama"
     weight = 30
 
 [[menu.main]]
-    identifier = "crate"
-    pre = "<i class='fas fa-boxes fa-lg'></i>"
-    url = "https://crates.io/users/thekuwayama"
+    identifier = "dockerhub"
+    pre = "<i class='fab fa-docker fa-lg'></i>"
+    url = "https://hub.docker.com/u/thekuwayama"
     weight = 40
 
 [[menu.main]]
     identifier = "presentation"
-    pre = "<i class='fa fa-link fa-lg'></i>"
+    pre = "<i class='fab fa-slideshare'></i>"
     url = "https://www.slideshare.net/techblogyahoo/yjdsnight-69820655"
     weight = 50
+
+[[menu.main]]
+    identifier = "speakerdeck"
+    pre = "<i class='fab fa-speaker-deck'></i>"
+    url = "https://speakerdeck.com/thekuwayama"
+    weight = 60
 
 [[menu.main]]
     identifier = "testserver"
     pre = "<i class='fa fa-link fa-lg'></i>"
     url = "https://thekuwayama.net/"
-    weight = 60
+    weight = 70
 
 [[menu.main]]
     identifier = "email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:thekuwayama@gmail.com"
-    weight = 70
+    weight = 80
